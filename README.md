@@ -96,7 +96,7 @@
     />
   </a>
 
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
+  <a href="https://jestjs.io/pt-BR/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/Jest-FFF?style=for-the-badge&logo=jest&logoColor=C03B13"
       alt="jest"
