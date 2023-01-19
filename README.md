@@ -17,7 +17,7 @@
 
 <hr>
 
-<h3 align="left">🛠️ Linguagens e Ferramentas</h3>
+<h3 align="left">🛠️ Stack's</h3>
 <p align="left">
   <a href="https://www.shellscript.sh/" target="_blank" rel="noreferrer" style="background-color: white;">
     <img
