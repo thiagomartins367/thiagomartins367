@@ -19,12 +19,10 @@
 
 <h3 align="left">🛠️ Linguagens e Ferramentas</h3>
 <p align="left">
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" style="background-color: white;">
+  <a href="https://www.shellscript.sh/" target="_blank" rel="noreferrer" style="background-color: white;">
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg"
-      alt="bash"
-      width="40"
-      height="40"
+      src="https://img.shields.io/badge/Shell_Script-000000?style=for-the-badge&logo=gnu-bash&logoColor=white"
+      alt="shell-script"
     />
   </a>
 
@@ -44,10 +42,8 @@
 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+      src="https://img.shields.io/badge/Docker-1C90ED?style=for-the-badge&logo=docker&logoColor=white"
       alt="docker"
-      width="40"
-      height="40"
     />
   </a>
 
@@ -152,10 +148,8 @@
 
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
       alt="python"
-      width="40"
-      height="40"
     />
   </a>
 
