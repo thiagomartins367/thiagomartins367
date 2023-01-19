@@ -204,7 +204,7 @@
   <a href="https://linkedin.com/in/thiago-dioria-martins" target="_blank">
     <img align="center" src="https://img.shields.io/badge/ThiagoMartins-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="thiago-dioria-martins"
   </a>
-  <a href="https://linkedin.com/in/thiago-dioria-martins" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/thiago17thiago@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiago17thiago@gmail.com" alt="thiago-dioria-martins"
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCHrdkvCcBJMlzgzkXkFXcwlGpPhtSflRRQRWsCjWHwWgCPDbhxKRVwVSDbdnMnhPtMlDtnB" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/thiago17thiago@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="thiago-dioria-martins"
   </a>
 </p>
