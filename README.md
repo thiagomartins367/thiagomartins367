@@ -68,7 +68,7 @@
     />
   </a>
 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.typescriptlang.org/pt/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
       alt="typescript"
