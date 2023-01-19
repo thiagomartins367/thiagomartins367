@@ -19,59 +19,24 @@
 
 <h3 align="left">🛠️ Stack's</h3>
 <p align="left">
-  <a href="https://www.shellscript.sh/" target="_blank" rel="noreferrer" style="background-color: white;">
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
-      src="https://img.shields.io/badge/Shell_Script-000000?style=for-the-badge&logo=gnu-bash&logoColor=white"
-      alt="shell-script"
+      src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
+      alt="nodejs"
     />
   </a>
 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  <a href="https://docs.npmjs.com/about-npm" target="_blank" rel="noreferrer">
     <img
-      src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
-      alt="bootstrap"
+      src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"
+      alt="npm"
     />
   </a>
 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
-      alt="css3"
-    />
-  </a>
-
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/Docker-1C90ED?style=for-the-badge&logo=docker&logoColor=white"
-      alt="docker"
-    />
-  </a>
-
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
-      alt="express.js"
-    />
-  </a>
-
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
-      alt="figma"
-    />
-  </a>
-
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
-      alt="git"
-    />
-  </a>
-
-  <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"
-      alt="heroku"
+      src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+      alt="react"
     />
   </a>
 
@@ -82,6 +47,20 @@
     />
   </a>
 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+      alt="css3"
+    />
+  </a>
+
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
+      alt="bootstrap"
+    />
+  </a>
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
@@ -89,24 +68,17 @@
     />
   </a>
 
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://img.shields.io/badge/Jest-FFF?style=for-the-badge&logo=jest&logoColor=C03B13"
-      alt="jest"
+      src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
+      alt="typescript"
     />
   </a>
 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img
-      src="https://img.shields.io/badge/Linux-EFBB21?style=for-the-badge&logo=linux&logoColor=000"
-      alt="linux"
-    />
-  </a>
-
-  <a href="https://mochajs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown"
-      alt="mocha"
+      src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+      alt="python"
     />
   </a>
 
@@ -124,31 +96,45 @@
     />
   </a>
 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
     <img
-      src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
-      alt="nodejs"
+      src="https://img.shields.io/badge/Jest-FFF?style=for-the-badge&logo=jest&logoColor=C03B13"
+      alt="jest"
     />
   </a>
 
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
+  <a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank" rel="noreferrer">
     <img
-      src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"
-      alt="postman"
+      src="https://img.shields.io/badge/Testing_Library-18191A?style=for-the-badge&logo=testing-library&logoColor=FE4646"
+      alt="testing-library"
     />
   </a>
 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <a href="https://mochajs.org" target="_blank" rel="noreferrer">
     <img
-      src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
-      alt="python"
+      src="https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown"
+      alt="mocha"
     />
   </a>
 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
-      alt="react"
+      src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
+      alt="git"
+    />
+  </a>
+
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Docker-1C90ED?style=for-the-badge&logo=docker&logoColor=white"
+      alt="docker"
+    />
+  </a>
+
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
+      alt="express.js"
     />
   </a>
 
@@ -159,10 +145,38 @@
     />
   </a>
 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.shellscript.sh/" target="_blank" rel="noreferrer" style="background-color: white;">
     <img
-      src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
-      alt="typescript"
+      src="https://img.shields.io/badge/Shell_Script-000000?style=for-the-badge&logo=gnu-bash&logoColor=white"
+      alt="shell-script"
+    />
+  </a>
+
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Linux-EFBB21?style=for-the-badge&logo=linux&logoColor=000"
+      alt="linux"
+    />
+  </a>
+
+  <a href="https://heroku.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"
+      alt="heroku"
+    />
+  </a>
+
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"
+      alt="postman"
+    />
+  </a>
+
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
+      alt="figma"
     />
   </a>
 </p>
