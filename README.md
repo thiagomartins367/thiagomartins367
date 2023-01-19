@@ -201,5 +201,10 @@
 
 <h3 align="left"> ☎️ Contato</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/thiago-dioria-martins" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thiago-dioria-martins" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/thiago-dioria-martins" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/ThiagoMartins-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="thiago-dioria-martins"
+  </a>
+  <a href="https://linkedin.com/in/thiago-dioria-martins" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/thiago17thiago@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiago17thiago@gmail.com" alt="thiago-dioria-martins"
+  </a>
 </p>
