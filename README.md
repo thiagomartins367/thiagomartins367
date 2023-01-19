@@ -56,10 +56,8 @@
 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+      src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
       alt="figma"
-      width="40"
-      height="40"
     />
   </a>
 
@@ -72,10 +70,8 @@
 
   <a href="https://heroku.com" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
+      src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"
       alt="heroku"
-      width="40"
-      height="40"
     />
   </a>
 
@@ -109,10 +105,8 @@
 
   <a href="https://mochajs.org" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg"
+      src="https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown"
       alt="mocha"
-      width="40"
-      height="40"
     />
   </a>
 
@@ -139,10 +133,8 @@
 
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+      src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"
       alt="postman"
-      width="40"
-      height="40"
     />
   </a>
 
