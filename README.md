@@ -96,6 +96,13 @@
     />
   </a>
 
+  <a href="https://sequelize.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue"
+      alt="sequelize.js"
+    />
+  </a>
+
   <a href="https://jestjs.io/pt-BR/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/Jest-FFF?style=for-the-badge&logo=jest&logoColor=C03B13"
@@ -114,6 +121,20 @@
     <img
       src="https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown"
       alt="mocha"
+    />
+  </a>
+
+  <a href="https://www.chaijs.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red"
+      alt="chai.js"
+    />
+  </a>
+
+  <a href="https://sinonjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon"
+      alt="sinon.js"
     />
   </a>
 
@@ -145,6 +166,13 @@
     />
   </a>
 
+  <a href="https://jwt.io/introduction" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink"
+      alt="json-web-token"
+    />
+  </a>
+
   <a href="https://www.shellscript.sh/" target="_blank" rel="noreferrer" style="background-color: white;">
     <img
       src="https://img.shields.io/badge/Shell_Script-000000?style=for-the-badge&logo=gnu-bash&logoColor=white"
@@ -166,6 +194,13 @@
     />
   </a>
 
+  <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white"
+      alt="digital-ocean"
+    />
+  </a>
+
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"
@@ -177,6 +212,13 @@
     <img
       src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
       alt="figma"
+    />
+  </a>
+
+  <a href="https://slack.com/intl/pt-br" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"
+      alt="slack"
     />
   </a>
 </p>
