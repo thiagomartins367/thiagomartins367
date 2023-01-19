@@ -189,6 +189,7 @@
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=thiagomartins367&theme=dracula&show_icons=true&layout=compact" alt="thiagomartins367"/>
     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomartins367&theme=dracula&layout=compact" alt="thiagomartins367"/>
   </div>
+
   <div align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DenverCoder1&theme=dark" />
