@@ -7,7 +7,7 @@
 
   Foi a partir daí que meu interesse pelo desenvolvimento de software se intensificou. 🔥
 
-  Mais a frente nessa trajetória encontrei a <b><a href="https://www.betrybe.com/" target="_blank" rel="noreferrer">Trybe</a></b>, onde tive não só um "contato", mas sim uma verdadeira imersão no mundo DEV desde o básico (Git & GitHub) até o avançado, que com muita prática nos mais diversos projetos e um ensino de qualidade pude aprender tudo que um "DEV Full Stack" precisa para atender as exigências de mercado.
+  Mais a frente nessa trajetória encontrei a <b><a href="https://www.betrybe.com/formacao-desenvolvimento-web" target="_blank" rel="noreferrer">Trybe</a></b>, onde tive não só um "contato", mas sim uma verdadeira imersão no mundo DEV desde o básico (Git & GitHub) até o avançado, que com muita prática nos mais diversos projetos e um ensino de qualidade pude aprender tudo que um "DEV Full Stack" precisa para atender as exigências de mercado.
   
  - Sou um grande curioso e adoro novos desafios 🏁🏎️
  - Determinação e Resiliência me levaram à grandes conquistas 🏅
