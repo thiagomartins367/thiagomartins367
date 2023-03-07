@@ -15,7 +15,7 @@
  - Ávido por conhecimento e por novas formas de aplicá-lo 💡🧠
 </p>
 
-<p><b>:star: Acesse <a href="https://www.betrybe.com/formacao-desenvolvimento-web" target="_blank" rel="noreferrer">Meu Protfólio</a> !</b><p/>
+<p><b>:star: Acesse <a href="https://thiagomartins367.github.io" target="_blank" rel="noreferrer">Meu Protfólio</a> !</b><p/>
 
 <hr>
 
