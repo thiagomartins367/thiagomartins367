@@ -35,7 +35,7 @@
     />
   </a>
 
-  <a href="https://pt-br.reactjs.org/docs/getting-started.html" target="_blank" rel="noreferrer">
+  <a href="https://react.dev" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
       alt="react"
