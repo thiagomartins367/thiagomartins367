@@ -1,5 +1,22 @@
 <h1 align="center">Hi, I am THIAGO 👋</h1>
 
+<p align="center">  
+  <img src="https://komarev.com/ghpvc/?username=henriquejensen&color=blueviolet&label=👀+Profile+views">
+</p>
+
+
+<h1>Sobre :raising_hand_man:</h1>
+
+- 🏁 Sou um grande curioso e adoro novos desafios
+- 🏅 Determinação e Resiliência me levaram à grandes conquistas
+- 🎓 Sou formado em Desenvolvimento Web Full-Stack pela <a href="https://www.betrybe.com/formacao-desenvolvimento-web" target="_blank" rel="noreferrer"><b>Trybe</b></a>
+- 🧠 Sedento por conhecimento e por novas tecnologias
+- 💼 Em busca do meu sonhado <b>SIM</b>!
+
+<hr>
+
+<h3>Do Zero ao DEV :rocket:</h3>
+
 <p>
   Minha trajetória no mundo do Desenvolvimento começa no meu curso técnico de informática, onde tive contato com algumas linguagens de programação (Python e C#). 👨‍🔧🖥️
 
@@ -7,12 +24,7 @@
 
   Foi a partir daí que meu interesse pelo desenvolvimento de software se intensificou. 🔥
 
-  Mais a frente nessa trajetória encontrei a <b><a href="https://www.betrybe.com/formacao-desenvolvimento-web" target="_blank" rel="noreferrer">Trybe</a></b>, onde tive não só um "contato", mas sim uma verdadeira imersão no mundo DEV desde o básico (Git & GitHub) até o avançado, que com muita prática nos mais diversos projetos e um ensino de qualidade pude aprender tudo que um "DEV Full Stack" precisa para atender as exigências de mercado.
-  
- - Sou um grande curioso e adoro novos desafios 🏁🏎️
- - Determinação e Resiliência me levaram à grandes conquistas 🏅
- - Um time <b>sempre</b> estará acima de um único jogador 🧑🏻‍🧑🏽‍👱🏼‍♀️
- - Sedento por conhecimento e por novas tecnologias 💡🧠
+  Mais a frente nessa trajetória encontrei a <b><a href="https://www.betrybe.com/formacao-desenvolvimento-web" target="_blank" rel="noreferrer">Trybe</a></b>, onde tive não só um "contato", mas sim uma verdadeira imersão no mundo DEV desde o básico (Git & GitHub) até o avançado, que com muita prática nos mais diversos projetos e um ensino de qualidade pude desenvolver tudo que um DEV Full Stack precisa para atender as exigências do mercado.
 </p>
 
 <p><b>:star: Acesse <a href="https://thiagomartins367.github.io" target="_blank" rel="noreferrer">Meu Protfólio</a> !</b><p/>
