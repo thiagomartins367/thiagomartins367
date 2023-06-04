@@ -1,9 +1,10 @@
 <h1 align="center">Hi, I am THIAGO 👋</h1>
 
-<p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=henriquejensen&color=blueviolet&label=👀+Profile+views">
+<p align="center">
+  <a href="#">
+    <img src="https://komarev.com/ghpvc/?username=henriquejensen&color=blueviolet&label=👀+Profile+views">
+  </a>
 </p>
-
 
 <h1>Sobre :raising_hand_man:</h1>
 
