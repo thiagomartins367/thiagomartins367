@@ -254,11 +254,7 @@
 <hr>
 
 <h3 align="left"> ☎️ Contato</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/thiago-dioria-martins" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/ThiagoMartins-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="thiago-dioria-martins"
-  </a>
-  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCHrdkvCcBJMlzgzkXkFXcwlGpPhtSflRRQRWsCjWHwWgCPDbhxKRVwVSDbdnMnhPtMlDtnB" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/thiago17thiago@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="thiago-dioria-martins"
-  </a>
+<p>
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCHrdkvCcBJMlzgzkXkFXcwlGpPhtSflRRQRWsCjWHwWgCPDbhxKRVwVSDbdnMnhPtMlDtnB"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://linkedin.com/in/thiago-dioria-martins"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
