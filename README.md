@@ -242,11 +242,11 @@
 <h3 align="left">GitHub Status 📈</h3>
 
 <p align="center">
-  <a href="https://github.com/thiagomartins367">
+  <a href="#">
     <img alt="Status do GitHub" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thiagomartins367&show_icons=true&theme=dracula">
   </a>
   <br />
-  <a href="https://github.com/thiagomartins367">
+  <a href="#">
     <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thiagomartins367&theme=dracula">
   </a>
 </p>
