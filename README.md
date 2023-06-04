@@ -12,14 +12,14 @@
  - Sou um grande curioso e adoro novos desafios 🏁🏎️
  - Determinação e Resiliência me levaram à grandes conquistas 🏅
  - Um time <b>sempre</b> estará acima de um único jogador 🧑🏻‍🧑🏽‍👱🏼‍♀️
- - Ávido por conhecimento e por novas formas de aplicá-lo 💡🧠
+ - Sedento por conhecimento e por novas tecnologias 💡🧠
 </p>
 
 <p><b>:star: Acesse <a href="https://thiagomartins367.github.io" target="_blank" rel="noreferrer">Meu Protfólio</a> !</b><p/>
 
 <hr>
 
-<h3 align="left">🛠️ Stack's</h3>
+<h3 align="left">🛠️ Stacks</h3>
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
