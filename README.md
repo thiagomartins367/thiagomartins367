@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am THIAGO !</h1>
+<h1 align="center">Hi, I am THIAGO 👋</h1>
 
 <p>
   Minha trajetória no mundo do Desenvolvimento começa no meu curso técnico de informática, onde tive contato com algumas linguagens de programação (Python e C#). 👨‍🔧🖥️
