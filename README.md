@@ -227,20 +227,17 @@
 
 <hr>
 
-<h3 align="left">📊 Métricas GitHub</h3>
-<a href="https://github.com/thiagomartins367" align="center">
-  <div align="center">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=thiagomartins367&theme=dracula&show_icons=true&layout=compact" alt="thiagomartins367"/>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomartins367&theme=dracula&layout=compact" alt="thiagomartins367"/>
-  </div>
+<h3 align="left">GitHub Status 📈</h3>
 
-  <div align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DenverCoder1&theme=dark" />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=thiagomartins367&" alt="thiagomartins367" />
-    </picture>
-  </div>
-</a>
+<p align="center">
+  <a href="https://github.com/thiagomartins367">
+    <img alt="Status do GitHub" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thiagomartins367&show_icons=true&theme=dracula">
+  </a>
+  <br />
+  <a href="https://github.com/thiagomartins367">
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thiagomartins367&theme=dracula">
+  </a>
+</p>
 
 <hr>
 
