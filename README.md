@@ -55,6 +55,13 @@
     />
   </a>
 
+  <a href="https://react.dev" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Styled_components-BEC3C9?style=for-the-badge&logo=styled-components&logoColor=A05688"
+      alt="react"
+    />
+  </a>
+
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
