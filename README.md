@@ -38,28 +38,12 @@
 <hr>
 
 <h3 align="left">🛠️ Stacks</h3>
+
+[<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=black" alt="nodejs" />](https://nodejs.org)
+[<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />](https://docs.npmjs.com/about-npm)
+[<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />](https://react.dev)
+
 <p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=black"
-      alt="nodejs"
-    />
-  </a>
-
-  <a href="https://docs.npmjs.com/about-npm" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"
-      alt="npm"
-    />
-  </a>
-
-  <a href="https://react.dev" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
-      alt="react"
-    />
-  </a>
-
   <a href="https://react.dev" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/Styled_components-BEC3C9?style=for-the-badge&logo=styled-components&logoColor=A05688"
