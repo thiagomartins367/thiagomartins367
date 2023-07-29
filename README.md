@@ -10,7 +10,7 @@
 
 - 🏁 Sou um grande curioso e adoro novos desafios
 - 🏅 Determinação e Resiliência me levaram à grandes conquistas
-- 🎓 Sou formado em Desenvolvimento Web Full-Stack pela <a href="https://www.betrybe.com/formacao-desenvolvimento-web" target="_blank" rel="noreferrer"><b>Trybe</b></a>
+- 🎓 Formado em Desenvolvimento Web Full-Stack pela <a href="https://www.betrybe.com/formacao-desenvolvimento-web" target="_blank" rel="noreferrer"><b>Trybe</b></a>
 - 🧠 Sedento por conhecimento e por novas tecnologias
 - 💼 Em busca do meu sonhado <b>SIM</b>!
 
