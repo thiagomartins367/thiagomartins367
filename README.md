@@ -41,7 +41,7 @@
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
-      src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
+      src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=black"
       alt="nodejs"
     />
   </a>
