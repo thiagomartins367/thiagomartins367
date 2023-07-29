@@ -14,6 +14,11 @@
 - 🧠 Sedento por conhecimento e por novas tecnologias
 - 💼 Em busca do meu sonhado <b>SIM</b>!
 
+<p>
+  <a href="https://linkedin.com/in/thiago-dioria-martins"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:thiago17thiago@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</p>
+
 <hr>
 
 <h3>Do Zero ao DEV :rocket:</h3>
@@ -257,13 +262,4 @@
   <a href="#">
     <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thiagomartins367&theme=dracula">
   </a>
-</p>
-
-<hr>
-
-<h3 align="left"> ☎️ Contato</h3>
-<p>
-  <a href="mailto:thiago17thiago@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-  <a href="https://linkedin.com/in/thiago-dioria-martins"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
