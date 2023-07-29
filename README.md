@@ -109,9 +109,9 @@
     />
   </a>
 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
     <img
-      src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
+      src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=black"
       alt="mongodb"
     />
   </a>
