@@ -37,7 +37,23 @@
 
 <hr>
 
+<h3 align="left">GitHub Status 📈</h3>
+
+<p align="center">
+  <a href="#">
+    <img alt="Status do GitHub" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thiagomartins367&show_icons=true&theme=dracula">
+  </a>
+  <br />
+  <a href="#">
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thiagomartins367&theme=dracula">
+  </a>
+</p>
+
+<hr>
+
 <h3 align="left">🛠️ Stacks</h3>
+
+<br />
 
 <h4 align="left">Front-End</h4>
 
@@ -236,17 +252,3 @@
 
 [Trello-card]: https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white
 [Trello-url]: https://trello.com/pt-BR
-
-<hr>
-
-<h3 align="left">GitHub Status 📈</h3>
-
-<p align="center">
-  <a href="#">
-    <img alt="Status do GitHub" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thiagomartins367&show_icons=true&theme=dracula">
-  </a>
-  <br />
-  <a href="#">
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thiagomartins367&theme=dracula">
-  </a>
-</p>
