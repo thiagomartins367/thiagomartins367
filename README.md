@@ -151,7 +151,7 @@
 [Digital-Ocean-card]: https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white
 [Digital-Ocean-url]: https://www.digitalocean.com
 
-[Postman-card]: https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"
+[Postman-card]: https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white
 [Postman-url]: https://postman.com
 
 [Figma-card]: https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
