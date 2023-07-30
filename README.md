@@ -77,21 +77,22 @@
 [![MySQL][MySQL-card]][MySQL-url]
 [![Mongodb][Mongodb-card]][Mongodb-url]
 [![Sequelize][Sequelize-card]][Sequelize-url]
+[![Supabase][Supabase-card]][Supabase-url]
 
 <br />
 
 <h4 align="left">Linters</h4>
 
 [![ESLint][ESLint-card]][ESLint-url]
-[![Prettier][Prettier-card]][Prettier-url]
 [![Stylelint][Stylelint-card]][Stylelint-url]
+[![Prettier][Prettier-card]][Prettier-url]
 
 <br />
 
 <h4 align="left">Cloud</h4>
 
-[![Digital_Ocean][Digital-Ocean-card]][Digital-Ocean-url]
 [![Heroku][Heroku-card]][Heroku-url]
+[![Digital_Ocean][Digital-Ocean-card]][Digital-Ocean-url]
 
 <br />
 
@@ -101,17 +102,29 @@
 
 <br />
 
-<h4 align="left">OS</h4>
+<h4 align="left">Group</h4>
+
+[![Slack][Slack-card]][Slack-url]
+[![Trello][Trello-card]][Trello-url]
+
+<br />
+
+<h4 align="left">OS and Script</h4>
 
 [![Linux][Linux-card]][Linux-url]
-
-[![NPM][NPM-card]][NPM-url]
-[![Python][Python-card]][Python-url]
-[![Git][Git-card]][Git-url]
-[![Docker][Docker-card]][Docker-url]
+[![Ubuntu][Ubuntu-card]][Ubuntu-url]
 [![Shell_Script][Shell-Script-card]][Shell-Script-url]
+
+<br />
+
+<h4 align="left">Others</h4>
+
+[![Python][Python-card]][Python-url]
+[![Docker][Docker-card]][Docker-url]
+[![Git][Git-card]][Git-url]
+[![GitHub][GitHub]][GitHub-url]
+[![NPM][NPM-card]][NPM-url]
 [![Postman][Postman-card]][Postman-url]
-[![Slack][Slack-card]][Slack-url]
 
 [Node.js-card]: https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=black
 [Node.js-url]: https://nodejs.org
@@ -140,17 +153,20 @@
 [TypeScript-card]: https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
 [TypeScript-url]: https://www.typescriptlang.org/pt
 
-[Python-card]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+[Python-card]: https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [Python-url]: https://www.python.org
 
-[Mongodb-card]: https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=black
+[Mongodb-card]: https://img.shields.io/badge/Mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=black
 [Mongodb-url]: https://www.mongodb.com
 
 [MySQL-card]: https://img.shields.io/badge/MySQL-225372?style=for-the-badge&logo=mysql&logoColor=white
 [MySQL-url]: https://www.mysql.com
 
-[Sequelize-card]: https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue
+[Sequelize-card]: https://img.shields.io/badge/Sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue
 [Sequelize-url]: https://sequelize.org
+
+[Supabase-card]: https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=#3ECFB2
+[Supabase-url]: https://supabase.com
 
 [Jest-card]: https://img.shields.io/badge/Jest-FFF?style=for-the-badge&logo=jest&logoColor=C03B13
 [Jest-url]: https://jestjs.io/pt-BR
@@ -158,17 +174,20 @@
 [RTL-card]: https://img.shields.io/badge/Testing_Library-18191A?style=for-the-badge&logo=testing-library&logoColor=FE4646
 [RTL-url]: https://testing-library.com/docs/react-testing-library/intro
 
-[Mocha.js-card]: https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown
+[Mocha.js-card]: https://img.shields.io/badge/Mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown
 [Mocha.js-url]: https://mochajs.org
 
-[Chai.js-card]: https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red
+[Chai.js-card]: https://img.shields.io/badge/Chai.js-323330?style=for-the-badge&logo=chai&logoColor=red
 [Chai.js-url]: https://www.chaijs.com
 
-[Sinon.js-card]: https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon
+[Sinon.js-card]: https://img.shields.io/badge/Sinon.js-323330?style=for-the-badge&logo=sinon
 [Sinon.js-url]: https://sinonjs.org
 
 [Git-card]: https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
 [Git-url]: https://git-scm.com
+
+[GitHub]: https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white
+[GitHub-url]: https://github.com
 
 [Docker-card]: https://img.shields.io/badge/Docker-1C90ED?style=for-the-badge&logo=docker&logoColor=white
 [Docker-url]: https://www.docker.com
@@ -179,7 +198,7 @@
 [Redux-card]: https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white
 [Redux-url]: https://redux.js.org
 
-[JWT-card]: https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink
+[JWT-card]: https://img.shields.io/badge/Json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink
 [JWT-url]: https://jwt.io/introduction
 
 [Shell-Script-card]: https://img.shields.io/badge/Shell_Script-000000?style=for-the-badge&logo=gnu-bash&logoColor=white
@@ -187,6 +206,9 @@
 
 [Linux-card]: https://img.shields.io/badge/Linux-EFBB21?style=for-the-badge&logo=linux&logoColor=000
 [Linux-url]: https://www.linux.org
+
+[Ubuntu-card]: https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
+[Ubuntu-url]: https://ubuntu.com
 
 [Heroku-card]: https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white
 [Heroku-url]: https://heroku.com
@@ -203,14 +225,17 @@
 [Slack-card]: https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white
 [Slack-url]: https://slack.com/intl/pt-br
 
-[ESLint-card]: https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white
+[ESLint-card]: https://img.shields.io/badge/Eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white
 [ESLint-url]: https://eslint.org
 
-[Prettier-card]: https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E
+[Prettier-card]: https://img.shields.io/badge/Prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E
 [Prettier-url]: https://prettier.io
 
-[Stylelint-card]: https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white
+[Stylelint-card]: https://img.shields.io/badge/Stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white
 [Stylelint-url]: https://stylelint.io
+
+[Trello-card]: https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white
+[Trello-url]: https://trello.com/pt-BR
 
 <hr>
 
