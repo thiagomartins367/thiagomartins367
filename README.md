@@ -39,35 +39,78 @@
 
 <h3 align="left">🛠️ Stacks</h3>
 
-[![Node.js][Node.js-card]][Node.js-url]
-[![NPM][NPM-card]][NPM-url]
-[![React.js][React.js-card]][React.js-url]
-[![Styled-Components][Styled-Components-card]][Styled-Components-url]
+<h4 align="left">Front-End</h4>
+
 [![HTML][HTML-card]][HTML-url]
 [![CSS][CSS-card]][CSS-url]
 [![Bootstrap][Bootstrap-card]][Bootstrap-url]
 [![JavaScript][JavaScript-card]][JavaScript-url]
 [![TypeScript][TypeScript-card]][TypeScript-url]
-[![Python][Python-card]][Python-url]
-[![Mongodb][Mongodb-card]][Mongodb-url]
-[![MySQL][MySQL-card]][MySQL-url]
-[![Sequelize][Sequelize-card]][Sequelize-url]
-[![Jest][Jest-card]][Jest-url]
+[![React.js][React.js-card]][React.js-url]
+[![Styled-Components][Styled-Components-card]][Styled-Components-url]
+[![Redux][Redux-card]][Redux-url]
+
+<br />
+
+<h4 align="left">Back-End</h4>
+
+[![Node.js][Node.js-card]][Node.js-url]
+[![Express.js][Express.js-card]][Express.js-url]
+[![Json Web Token][JWT-card]][JWT-url]
+[![JavaScript][JavaScript-card]][JavaScript-url]
+[![TypeScript][TypeScript-card]][TypeScript-url]
+
+<br />
+
+<h4 align="left">Tests</h4>
+
 [![Testing Library][RTL-card]][RTL-url]
+[![Jest][Jest-card]][Jest-url]
 [![Mocha.js][Mocha.js-card]][Mocha.js-url]
 [![Chai.js][Chai.js-card]][Chai.js-url]
 [![Sinon.js][Sinon.js-card]][Sinon.js-url]
+
+<br />
+
+<h4 align="left">Database and ORM</h4>
+
+[![MySQL][MySQL-card]][MySQL-url]
+[![Mongodb][Mongodb-card]][Mongodb-url]
+[![Sequelize][Sequelize-card]][Sequelize-url]
+
+<br />
+
+<h4 align="left">Linters</h4>
+
+[![ESLint][ESLint-card]][ESLint-url]
+[![Prettier][Prettier-card]][Prettier-url]
+[![Stylelint][Stylelint-card]][Stylelint-url]
+
+<br />
+
+<h4 align="left">Cloud</h4>
+
+[![Digital_Ocean][Digital-Ocean-card]][Digital-Ocean-url]
+[![Heroku][Heroku-card]][Heroku-url]
+
+<br />
+
+<h4 align="left">Design</h4>
+
+[![Figma][Figma-card]][Figma-url]
+
+<br />
+
+<h4 align="left">OS</h4>
+
+[![Linux][Linux-card]][Linux-url]
+
+[![NPM][NPM-card]][NPM-url]
+[![Python][Python-card]][Python-url]
 [![Git][Git-card]][Git-url]
 [![Docker][Docker-card]][Docker-url]
-[![Express.js][Express.js-card]][Express.js-url]
-[![Redux][Redux-card]][Redux-url]
-[![Json Web Token][JWT-card]][JWT-url]
 [![Shell_Script][Shell-Script-card]][Shell-Script-url]
-[![Linux][Linux-card]][Linux-url]
-[![Heroku][Heroku-card]][Heroku-url]
-[![Digital_Ocean][Digital-Ocean-card]][Digital-Ocean-url]
 [![Postman][Postman-card]][Postman-url]
-[![Figma][Figma-card]][Figma-url]
 [![Slack][Slack-card]][Slack-url]
 
 [Node.js-card]: https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=black
@@ -159,6 +202,15 @@
 
 [Slack-card]: https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white
 [Slack-url]: https://slack.com/intl/pt-br
+
+[ESLint-card]: https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white
+[ESLint-url]: https://eslint.org
+
+[Prettier-card]: https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E
+[Prettier-url]: https://prettier.io
+
+[Stylelint-card]: https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white
+[Stylelint-url]: https://stylelint.io
 
 <hr>
 
