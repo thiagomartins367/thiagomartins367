@@ -51,11 +51,7 @@
 
 <hr>
 
-<h3 align="left">🛠️ Stacks</h3>
-
-<br />
-
-<h4 align="left">Front-End</h4>
+<h2 align="left">Front-End</h2>
 
 [![HTML][HTML-card]][HTML-url]
 [![CSS][CSS-card]][CSS-url]
@@ -66,9 +62,7 @@
 [![Styled-Components][Styled-Components-card]][Styled-Components-url]
 [![Redux][Redux-card]][Redux-url]
 
-<br />
-
-<h4 align="left">Back-End</h4>
+<h2 align="left">Back-End</h2>
 
 [![Node.js][Node.js-card]][Node.js-url]
 [![Express.js][Express.js-card]][Express.js-url]
@@ -76,9 +70,7 @@
 [![JavaScript][JavaScript-card]][JavaScript-url]
 [![TypeScript][TypeScript-card]][TypeScript-url]
 
-<br />
-
-<h4 align="left">Tests</h4>
+<h2 align="left">Tests</h2>
 
 [![Testing Library][RTL-card]][RTL-url]
 [![Jest][Jest-card]][Jest-url]
@@ -86,54 +78,40 @@
 [![Chai.js][Chai.js-card]][Chai.js-url]
 [![Sinon.js][Sinon.js-card]][Sinon.js-url]
 
-<br />
-
-<h4 align="left">Database and ORM</h4>
+<h2 align="left">Database and ORM</h2>
 
 [![MySQL][MySQL-card]][MySQL-url]
 [![Mongodb][Mongodb-card]][Mongodb-url]
 [![Sequelize][Sequelize-card]][Sequelize-url]
 [![Supabase][Supabase-card]][Supabase-url]
 
-<br />
-
-<h4 align="left">Linters</h4>
+<h2 align="left">Linters</h2>
 
 [![ESLint][ESLint-card]][ESLint-url]
 [![Stylelint][Stylelint-card]][Stylelint-url]
 [![Prettier][Prettier-card]][Prettier-url]
 
-<br />
-
-<h4 align="left">Cloud</h4>
+<h2 align="left">Cloud</h2>
 
 [![Heroku][Heroku-card]][Heroku-url]
 [![Digital_Ocean][Digital-Ocean-card]][Digital-Ocean-url]
 
-<br />
-
-<h4 align="left">Design</h4>
+<h2 align="left">Design</h2>
 
 [![Figma][Figma-card]][Figma-url]
 
-<br />
-
-<h4 align="left">Group</h4>
+<h2 align="left">Group</h2>
 
 [![Slack][Slack-card]][Slack-url]
 [![Trello][Trello-card]][Trello-url]
 
-<br />
-
-<h4 align="left">OS and Script</h4>
+<h2 align="left">OS and Script</h2>
 
 [![Linux][Linux-card]][Linux-url]
 [![Ubuntu][Ubuntu-card]][Ubuntu-url]
 [![Shell_Script][Shell-Script-card]][Shell-Script-url]
 
-<br />
-
-<h4 align="left">Others</h4>
+<h2 align="left">Others</h2>
 
 [![Python][Python-card]][Python-url]
 [![Docker][Docker-card]][Docker-url]
