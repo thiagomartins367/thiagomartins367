@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<h1>Sobre :raising_hand_man:</h1>
+<h1>Sobre :man:</h1>
 
 - 🏁 Sou um grande curioso e adoro novos desafios
 - 🏅 Determinação e Resiliência me levaram à grandes conquistas
