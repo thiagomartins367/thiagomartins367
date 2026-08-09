@@ -33,7 +33,7 @@
   Mais a frente encontrei a <b><a href="https://www.betrybe.com/formacao-desenvolvimento-web" target="_blank" rel="noreferrer">Trybe</a></b>, onde tive não só um "contato", mas sim uma verdadeira imersão no mundo DEV desde o básico (Git & GitHub) até o avançado, que com muita prática nos mais diversos projetos e um ensino de qualidade pude desenvolver tudo que um DEV Full Stack precisa para atender as exigências do mercado.
 </p>
 
-<p><b>:star: Acesse <a href="https://thiagomartins367.github.io" target="_blank" rel="noreferrer">Meu Protfólio</a> !</b><p/>
+<p><b>:star: Acesse <a href="https://thiagodmartins.dev" target="_blank" rel="noreferrer">Meu Protfólio</a> !</b><p/>
 
 <hr>
 
