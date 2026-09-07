@@ -1,4 +1,4 @@
-<h1 align="center">Olá <img width="50px" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" alt="hand-shake">, eu sou o Thiago</h1>
+<h1 align="center">Olá <img width="50px" src="./assets/hi.gif" alt="hand-shake">, eu sou o Thiago</h1>
 
 <p align="center">
   <a href="#">
