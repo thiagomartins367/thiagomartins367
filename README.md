@@ -1,130 +1,108 @@
-<h1 align="center">Hi, I am THIAGO 👋</h1>
+<h1 align="center">Olá <img width="50px" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" alt="hand-shake">, eu sou o Thiago</h1>
 
 <p align="center">
   <a href="#">
-    <img src="https://komarev.com/ghpvc/?username=henriquejensen&color=blueviolet&label=👀+Profile+views">
+    <img src="https://komarev.com/ghpvc/?username=thiagomartins367&color=blueviolet&label=👀+Profile+views">
   </a>
 </p>
 
-<h1>Sobre :man:</h1>
+<h2>Sobre mim</h2>
 
-- 🏁 Sou um grande curioso e adoro novos desafios
-- 🏅 Determinação e Resiliência me levaram à grandes conquistas
-- 🎓 Formado em Desenvolvimento Full-Stack pela <a href="https://www.betrybe.com/formacao-desenvolvimento-web" target="_blank" rel="noreferrer"><b>Trybe</b></a>
-- 🧠 Sedento por conhecimento e por novas tecnologias
-- 💼 Em busca do meu sonhado <b>SIM</b>!
+- 💻 Desenvolvedor <b>Full-Stack Pleno</b> com foco em <b>Back-end</b>
+- 🚀 Trabalho principalmente com <b>C#, .NET e ASP.NET</b> no back-end e <b>React com TypeScript</b> no front-end
+- 🎓 Formado em Desenvolvimento Full-Stack pela <a href="https://www.betrybe.com/formacao-desenvolvimento-web" target="_blank" rel="noreferrer"><b>Trybe</b></a>, com especialização posterior em <b>C#/.NET</b>
+- 🧠 Encaro cada tecnologia nova como oportunidade — foi assim com o .NET, é assim com IA aplicada ao desenvolvimento
+- 🤝 Comecei em suporte a sistemas, onde aprendi a ouvir o usuário e traduzir demandas em soluções
 
 <p>
-  <a href="https://linkedin.com/in/thiago-dioria-martins"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:thiago17thiago@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://thiagodmartins.dev" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-24292F?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://linkedin.com/in/thiago-dioria-martins" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:contato@thiagodmartins.dev"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=maildotru&logoColor=white"></a>
 </p>
 
 <hr>
-
-<h3>Do Zero ao DEV :rocket:</h3>
-
-<p>
-  Minha trajetória no mundo do desenvolvimento começa no meu curso técnico de informática, onde tive contato com algumas linguagens de programação (Python e C#). 👨‍🔧🖥️
-
-  E na reta final deste curso quando tive que desenvolver um sistema com persistência em banco de dados utilizando: HTML, CSS, JavaScript, NodeJS e MySQL.
-
-  Foi a partir daí que meu interesse pelo desenvolvimento se intensificou. 🔥
-
-  Mais a frente encontrei a <b><a href="https://www.betrybe.com/formacao-desenvolvimento-web" target="_blank" rel="noreferrer">Trybe</a></b>, onde tive não só um "contato", mas sim uma verdadeira imersão no mundo DEV desde o básico (Git & GitHub) até o avançado, que com muita prática nos mais diversos projetos e um ensino de qualidade pude desenvolver tudo que um DEV Full Stack precisa para atender as exigências do mercado.
-</p>
-
-<p><b>:star: Acesse <a href="https://thiagodmartins.dev" target="_blank" rel="noreferrer">Meu Protfólio</a> !</b><p/>
-
-<hr>
-
-<h3 align="left">GitHub Status 📈</h3>
-
-<p align="center">
-  <a href="#">
-    <img alt="Status do GitHub" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thiagomartins367&show_icons=true&theme=dracula">
-  </a>
-  <br />
-  <a href="#">
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thiagomartins367&theme=dracula">
-  </a>
-</p>
-
-<hr>
-
-<h2 align="left">Front-End</h2>
-
-[![HTML][HTML-card]][HTML-url]
-[![CSS][CSS-card]][CSS-url]
-[![Bootstrap][Bootstrap-card]][Bootstrap-url]
-[![JavaScript][JavaScript-card]][JavaScript-url]
-[![TypeScript][TypeScript-card]][TypeScript-url]
-[![React.js][React.js-card]][React.js-url]
-[![Styled-Components][Styled-Components-card]][Styled-Components-url]
-[![Redux][Redux-card]][Redux-url]
 
 <h2 align="left">Back-End</h2>
 
+[![C#][CSharp-card]][CSharp-url]
+[![.NET][DotNet-card]][DotNet-url]
 [![Node.js][Node.js-card]][Node.js-url]
 [![Express.js][Express.js-card]][Express.js-url]
-[![Json Web Token][JWT-card]][JWT-url]
-[![JavaScript][JavaScript-card]][JavaScript-url]
 [![TypeScript][TypeScript-card]][TypeScript-url]
+[![JavaScript][JavaScript-card]][JavaScript-url]
+[![Json Web Token][JWT-card]][JWT-url]
 
-<h2 align="left">Tests</h2>
+<h2 align="left">Front-End</h2>
 
-[![Testing Library][RTL-card]][RTL-url]
-[![Jest][Jest-card]][Jest-url]
-[![Mocha.js][Mocha.js-card]][Mocha.js-url]
-[![Chai.js][Chai.js-card]][Chai.js-url]
-[![Sinon.js][Sinon.js-card]][Sinon.js-url]
+[![React.js][React.js-card]][React.js-url]
+[![TypeScript][TypeScript-card]][TypeScript-url]
+[![Redux][Redux-card]][Redux-url]
+[![HTML][HTML-card]][HTML-url]
+[![CSS][CSS-card]][CSS-url]
+[![Tailwind CSS][Tailwind-card]][Tailwind-url]
+[![Styled-Components][Styled-Components-card]][Styled-Components-url]
 
-<h2 align="left">Database and ORM</h2>
+<h2 align="left">Banco de dados e ORM</h2>
 
 [![MySQL][MySQL-card]][MySQL-url]
+[![SQL Server][SQLServer-card]][SQLServer-url]
 [![Mongodb][Mongodb-card]][Mongodb-url]
+[![Entity Framework][EF-card]][EF-url]
 [![Sequelize][Sequelize-card]][Sequelize-url]
-[![Supabase][Supabase-card]][Supabase-url]
 
-<h2 align="left">Linters</h2>
+<h2 align="left">Testes</h2>
 
-[![ESLint][ESLint-card]][ESLint-url]
-[![Stylelint][Stylelint-card]][Stylelint-url]
-[![Prettier][Prettier-card]][Prettier-url]
+[![xUnit][xUnit-card]][xUnit-url]
+[![Jest][Jest-card]][Jest-url]
+[![Testing Library][RTL-card]][RTL-url]
+[![Mocha.js][Mocha.js-card]][Mocha.js-url]
+[![Chai.js][Chai.js-card]][Chai.js-url]
 
-<h2 align="left">Cloud</h2>
+<h2 align="left">Ferramentas</h2>
 
-[![Heroku][Heroku-card]][Heroku-url]
-[![Digital_Ocean][Digital-Ocean-card]][Digital-Ocean-url]
-
-<h2 align="left">Design</h2>
-
-[![Figma][Figma-card]][Figma-url]
-
-<h2 align="left">Group</h2>
-
-[![Slack][Slack-card]][Slack-url]
-[![Trello][Trello-card]][Trello-url]
-
-<h2 align="left">OS and Script</h2>
-
-[![Linux][Linux-card]][Linux-url]
-[![Ubuntu][Ubuntu-card]][Ubuntu-url]
-[![Shell_Script][Shell-Script-card]][Shell-Script-url]
-
-<h2 align="left">Others</h2>
-
-[![Python][Python-card]][Python-url]
-[![Docker][Docker-card]][Docker-url]
 [![Git][Git-card]][Git-url]
 [![GitHub][GitHub]][GitHub-url]
-[![NPM][NPM-card]][NPM-url]
+[![Docker][Docker-card]][Docker-url]
 [![Postman][Postman-card]][Postman-url]
+[![ESLint][ESLint-card]][ESLint-url]
+[![Prettier][Prettier-card]][Prettier-url]
+[![Linux][Linux-card]][Linux-url]
+[![Python][Python-card]][Python-url]
+
+<hr>
+
+<h3 align="left">Stats 📈</h3>
+
+<p align="center">
+  <!-- <a href="#">
+    <img alt="Status do GitHub" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thiagomartins367&show_icons=true&theme=dracula">
+  </a>
+  <br /> -->
+  <a href="#">
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=thiagomartins367&theme=dracula">
+  </a>
+</p>
+
+[CSharp-card]: https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white
+[CSharp-url]: https://learn.microsoft.com/dotnet/csharp
+
+[DotNet-card]: https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white
+[DotNet-url]: https://dotnet.microsoft.com
+
+[EF-card]: https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white
+[EF-url]: https://learn.microsoft.com/ef
+
+[SQLServer-card]: https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white
+[SQLServer-url]: https://www.microsoft.com/sql-server
+
+[xUnit-card]: https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white
+[xUnit-url]: https://xunit.net
+
+[Tailwind-card]: https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white
+[Tailwind-url]: https://tailwindcss.com
 
 [Node.js-card]: https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=black
 [Node.js-url]: https://nodejs.org
-
-[NPM-card]: https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white
-[NPM-url]: https://docs.npmjs.com/about-npm
 
 [React.js-card]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React.js-url]: https://react.dev
@@ -137,9 +115,6 @@
 
 [CSS-card]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [CSS-url]: https://developer.mozilla.org/pt-BR/docs/Web/CSS
-
-[Bootstrap-card]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
 
 [JavaScript-card]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 [JavaScript-url]: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
@@ -159,9 +134,6 @@
 [Sequelize-card]: https://img.shields.io/badge/Sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue
 [Sequelize-url]: https://sequelize.org
 
-[Supabase-card]: https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=#3ECFB2
-[Supabase-url]: https://supabase.com
-
 [Jest-card]: https://img.shields.io/badge/Jest-FFF?style=for-the-badge&logo=jest&logoColor=C03B13
 [Jest-url]: https://jestjs.io/pt-BR
 
@@ -173,9 +145,6 @@
 
 [Chai.js-card]: https://img.shields.io/badge/Chai.js-323330?style=for-the-badge&logo=chai&logoColor=red
 [Chai.js-url]: https://www.chaijs.com
-
-[Sinon.js-card]: https://img.shields.io/badge/Sinon.js-323330?style=for-the-badge&logo=sinon
-[Sinon.js-url]: https://sinonjs.org
 
 [Git-card]: https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
 [Git-url]: https://git-scm.com
@@ -195,38 +164,14 @@
 [JWT-card]: https://img.shields.io/badge/Json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink
 [JWT-url]: https://jwt.io/introduction
 
-[Shell-Script-card]: https://img.shields.io/badge/Shell_Script-000000?style=for-the-badge&logo=gnu-bash&logoColor=white
-[Shell-Script-url]: https://www.shellscript.sh
-
 [Linux-card]: https://img.shields.io/badge/Linux-EFBB21?style=for-the-badge&logo=linux&logoColor=000
 [Linux-url]: https://www.linux.org
 
-[Ubuntu-card]: https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
-[Ubuntu-url]: https://ubuntu.com
-
-[Heroku-card]: https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white
-[Heroku-url]: https://heroku.com
-
-[Digital-Ocean-card]: https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white
-[Digital-Ocean-url]: https://www.digitalocean.com
-
 [Postman-card]: https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white
 [Postman-url]: https://postman.com
-
-[Figma-card]: https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
-[Figma-url]: https://www.figma.com
-
-[Slack-card]: https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white
-[Slack-url]: https://slack.com/intl/pt-br
 
 [ESLint-card]: https://img.shields.io/badge/Eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white
 [ESLint-url]: https://eslint.org
 
 [Prettier-card]: https://img.shields.io/badge/Prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E
 [Prettier-url]: https://prettier.io
-
-[Stylelint-card]: https://img.shields.io/badge/Stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white
-[Stylelint-url]: https://stylelint.io
-
-[Trello-card]: https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white
-[Trello-url]: https://trello.com/pt-BR
