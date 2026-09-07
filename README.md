@@ -111,7 +111,7 @@
 [Tailwind-url]: https://tailwindcss.com
 
 [Node.js-card]: https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=black
-[Node.js-url]: https://nodejs.org/en/about
+[Node.js-url]: https://nodejs.org/pt-br/about
 
 [React.js-card]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React.js-url]: https://pt-br.react.dev
