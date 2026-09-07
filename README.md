@@ -16,7 +16,7 @@
 
 <p>
   <a href="https://thiagodmartins.dev" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-24292F?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="https://linkedin.com/in/thiago-dioria-martins" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://linkedin.com/in/thiago-dioria-martins" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg=="></a>
   <a href="mailto:contato@thiagodmartins.dev"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=maildotru&logoColor=white"></a>
 </p>
 
@@ -26,6 +26,7 @@
 
 [![C#][CSharp-card]][CSharp-url]
 [![.NET][DotNet-card]][DotNet-url]
+[![ASP.NET][AspNet-card]][AspNet-url]
 [![Node.js][Node.js-card]][Node.js-url]
 [![Express.js][Express.js-card]][Express.js-url]
 [![TypeScript][TypeScript-card]][TypeScript-url]
@@ -49,6 +50,7 @@
 [![Mongodb][Mongodb-card]][Mongodb-url]
 [![Entity Framework][EF-card]][EF-url]
 [![Sequelize][Sequelize-card]][Sequelize-url]
+[![Mongoose][Mongoose-card]][Mongoose-url]
 
 <h2 align="left">Testes</h2>
 
@@ -63,6 +65,7 @@
 [![Git][Git-card]][Git-url]
 [![GitHub][GitHub]][GitHub-url]
 [![Docker][Docker-card]][Docker-url]
+[![Claude][Claude-card]][Claude-url]
 [![Postman][Postman-card]][Postman-url]
 [![ESLint][ESLint-card]][ESLint-url]
 [![Prettier][Prettier-card]][Prettier-url]
@@ -84,13 +87,19 @@
 </p>
 
 [CSharp-card]: https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white
-[CSharp-url]: https://learn.microsoft.com/dotnet/csharp
+[CSharp-url]: https://dotnet.microsoft.com/pt-br/languages/csharp
 
 [DotNet-card]: https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white
-[DotNet-url]: https://dotnet.microsoft.com
+[DotNet-url]: https://dotnet.microsoft.com/pt-br/learn/dotnet/what-is-dotnet
+
+[AspNet-card]: https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white
+[AspNet-url]: https://dotnet.microsoft.com/pt-br/apps/aspnet
 
 [EF-card]: https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white
-[EF-url]: https://learn.microsoft.com/ef
+[EF-url]: https://learn.microsoft.com/pt-br/ef/core
+
+[Claude-card]: https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white
+[Claude-url]: https://claude.com/solutions/coding
 
 [SQLServer-card]: https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white
 [SQLServer-url]: https://www.microsoft.com/sql-server
@@ -102,16 +111,16 @@
 [Tailwind-url]: https://tailwindcss.com
 
 [Node.js-card]: https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=black
-[Node.js-url]: https://nodejs.org
+[Node.js-url]: https://nodejs.org/en/about
 
 [React.js-card]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React.js-url]: https://react.dev
+[React.js-url]: https://pt-br.react.dev
 
 [Styled-Components-card]: https://img.shields.io/badge/Styled_components-BEC3C9?style=for-the-badge&logo=styled-components&logoColor=A05688
 [Styled-Components-url]: https://styled-components.com
 
 [HTML-card]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-[HTML-url]: https://www.w3.org/html
+[HTML-url]: https://developer.mozilla.org/pt-BR/docs/Web/HTML
 
 [CSS-card]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [CSS-url]: https://developer.mozilla.org/pt-BR/docs/Web/CSS
@@ -123,16 +132,19 @@
 [TypeScript-url]: https://www.typescriptlang.org/pt
 
 [Python-card]: https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
-[Python-url]: https://www.python.org
+[Python-url]: https://www.python.org/about
 
 [Mongodb-card]: https://img.shields.io/badge/Mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=black
-[Mongodb-url]: https://www.mongodb.com
+[Mongodb-url]: https://www.mongodb.com/pt-br
 
 [MySQL-card]: https://img.shields.io/badge/MySQL-225372?style=for-the-badge&logo=mysql&logoColor=white
 [MySQL-url]: https://www.mysql.com
 
 [Sequelize-card]: https://img.shields.io/badge/Sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue
 [Sequelize-url]: https://sequelize.org
+
+[Mongoose-card]: https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white
+[Mongoose-url]: https://mongoosejs.com
 
 [Jest-card]: https://img.shields.io/badge/Jest-FFF?style=for-the-badge&logo=jest&logoColor=C03B13
 [Jest-url]: https://jestjs.io/pt-BR
@@ -150,13 +162,13 @@
 [Git-url]: https://git-scm.com
 
 [GitHub]: https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white
-[GitHub-url]: https://github.com
+[GitHub-url]: https://docs.github.com/pt/get-started/start-your-journey/about-github-and-git
 
 [Docker-card]: https://img.shields.io/badge/Docker-1C90ED?style=for-the-badge&logo=docker&logoColor=white
 [Docker-url]: https://www.docker.com
 
 [Express.js-card]: https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
-[Express.js-url]: https://expressjs.com
+[Express.js-url]: https://expressjs.com/pt-br
 
 [Redux-card]: https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white
 [Redux-url]: https://redux.js.org
