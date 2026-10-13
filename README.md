@@ -8,7 +8,7 @@
 
 <h2>Sobre mim</h2>
 
-- 💻 Desenvolvedor <b>Full-Stack Pleno</b> com foco em <b>Back-end</b>
+- 💻 <b>Desenvolvedor Full-Stack Pleno</b> com mais de 2 anos de experiência no mercado de tecnologia
 - 🚀 Trabalho principalmente com <b>C#, .NET e ASP.NET</b> no back-end e <b>React com TypeScript</b> no front-end
 - 🎓 Formado em Desenvolvimento Full-Stack pela <a href="https://www.betrybe.com/formacao-desenvolvimento-web" target="_blank" rel="noreferrer"><b>Trybe</b></a>, com especialização posterior em <b>C#/.NET</b>
 - 🧠 Encaro cada tecnologia nova como oportunidade — foi assim com o .NET, é assim com IA aplicada ao desenvolvimento
